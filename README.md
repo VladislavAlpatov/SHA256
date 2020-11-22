@@ -1,2 +1,2 @@
 # SHA256
- Алгоритм SHA256 для C++
+ [Special thanks to this site](https://www.cyberforum.ru/cpp-builder/thread1366145.html)
